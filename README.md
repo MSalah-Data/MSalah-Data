@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Salah 👋
 
-<!--
-**MSalah-Data/MSalah-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Insights Seeker | Problem Solver
 
-Here are some ideas to get you started:
+I am a passionate **Data Analyst** dedicated to transforming complex datasets into actionable insights. I love exploring data, finding patterns, and telling stories through visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Databases** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) |
+| **Visualization** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| **Analysis** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
+
+---
+
+### 🚀 What I'm working on:
+- 📈 Analyzing real-world datasets to drive business growth.
+- 🧹 Cleaning messy data and building automated dashboards.
+- 🧪 Exploring Machine Learning basics to enhance predictive analysis.
+
+---
+
+### 📫 Let's Connect:
+- **LinkedIn:** [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
+- **Email:** your-email@example.com
+
+---
+
+### ⚡ Fun Fact:
+"I believe that data without insights is just a bunch of numbers, and insights without action are just ideas."
