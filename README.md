@@ -25,8 +25,8 @@ I am a passionate **Data Analyst** dedicated to transforming complex datasets in
 ---
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
-- **Email:** your-email@example.com
+- **LinkedIn:** [linkedin.com/in/YOUR_USERNAME](www.linkedin.com/in/mohamed-salah-abd-elbasset)
+- **Email:** m.salah.abdelbasset@gmail.com
 
 ---
 
